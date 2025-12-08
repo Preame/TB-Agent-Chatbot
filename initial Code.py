@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 
+#TODO 문서 찾기
 # 1. 도구 가져오기 (Gemini 전용)
 try:
     from langchain_community.document_loaders import PyPDFLoader
